@@ -1,0 +1,15 @@
+To check whether the request is being sent -> ping www.google.com
+
+To know the hostname of your computer -> hostname
+
+To display computer's currently assigned IP Address, subnet mask, default gateway addresses -> ipconfig
+
+To know the time it takes for a packet of information to travel between a local computer and a destination IP address or domain -> tracert
+
+To know the network status and protocol statistics -> netstat
+
+To display the Media Access Control (MAC) addresses for each network adapter in the computer -> getmac
+
+If you have already a domain name of website and you want to find out the IP address and DNS server detail -> nslookup www.google.com
+
+To do the mapping between an Internet Protocol (IP) address and a Media Access Control (MAC) address -> arp -a

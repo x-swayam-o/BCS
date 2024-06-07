@@ -1,0 +1,1 @@
+Control Pannel -> Network and Internet -> Network and Sharing -> change adapter settings -> ethernet(properties) -> internet protocol version -> set ip
